@@ -28,8 +28,6 @@
             // Prints if the word is in the sentence
             Console.WriteLine($"{word} exists in {sentence}, {isIn}");
 
-
-
         }
     }
 }
